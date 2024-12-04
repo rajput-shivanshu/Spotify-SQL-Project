@@ -1,4 +1,3 @@
-
 ![Spotify](https://github.com/user-attachments/assets/b2038492-c22f-42c6-a530-166939183a03)
 
 # Spotify-SQL-Project
