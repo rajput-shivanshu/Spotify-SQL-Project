@@ -1,3 +1,6 @@
+
+![Spotify](https://github.com/user-attachments/assets/b2038492-c22f-42c6-a530-166939183a03)
+
 # Spotify-SQL-Project
 
 This project includes a series of SQL queries designed to extract unique information from a simulated Spotify database.
